@@ -24,7 +24,7 @@
 
 ###
 
-<p align="left">I'm Khadija, a computer science engineer student with a growing interest in  mobile development.<br><br>- 📚 I’m learning how to build clean, maintainable apps with Provider and Git, focusing on practical architecture and user logic.</p>
+<p align="left">I'm Khadija, a computer science engineer student with a growing interest in  mobile development.<br><br>- 📚 I’m learning how to build clean, maintainable flutter apps with Provider , focusing on practical architecture and user logic.</p>
 
 ###
 
